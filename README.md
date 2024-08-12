@@ -9,6 +9,7 @@
   <samp>
     <br>
     I am a dedicated MERN stack developer based in <b>Gujarat, India</b>, with a solid track record of developing robust web applications. My expertise lies in utilizing MongoDB, Express.js, React, and Node.js to build scalable and efficient solutions. I am committed to employing the latest technologies to deliver impactful results and enhance user engagement.
+    
   </samp>
 </p>
 
